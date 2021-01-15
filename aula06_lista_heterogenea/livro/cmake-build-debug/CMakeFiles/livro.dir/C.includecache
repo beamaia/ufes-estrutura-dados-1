@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bea/ufes/earte-2020-1/ed1/aula06/livro/formas.h
+
+/home/bea/ufes/earte-2020-1/ed1/aula06/livro/listaHetFormas.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+listaHetFormas.h
+/home/bea/ufes/earte-2020-1/ed1/aula06/livro/listaHetFormas.h
+formas.h
+/home/bea/ufes/earte-2020-1/ed1/aula06/livro/formas.h
+
+/home/bea/ufes/earte-2020-1/ed1/aula06/livro/listaHetFormas.h
+

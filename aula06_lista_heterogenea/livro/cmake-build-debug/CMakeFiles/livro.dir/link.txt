@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/livro.dir/formas.c.o CMakeFiles/livro.dir/listaHetFormas.c.o CMakeFiles/livro.dir/mainFormas.c.o  -o livro 

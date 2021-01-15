@@ -1,0 +1,277 @@
+Quantos alunos tem?
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+
+Informações do aluno:
+Aluno(a): Aimee
+Matricula: 2001
+P1: 9.00, P2: 7.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Alice
+Matricula: 2002
+P1: 4.00, P2: 6.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Aline
+Matricula: 2003
+P1: 1.00, P2: 2.00, P3: 3.00
+
+
+Informações do aluno:
+Aluno(a): Amanda
+Matricula: 2004
+P1: 4.00, P2: 9.00, P3: 1.00
+
+
+Informações do aluno:
+Aluno(a): Ana
+Matricula: 2005
+P1: 2.00, P2: 4.00, P3: 6.00
+
+
+Informações do aluno:
+Aluno(a): Anabelle
+Matricula: 2006
+P1: 6.00, P2: 8.00, P3: 0.00
+
+
+Informações do aluno:
+Aluno(a): Anais
+Matricula: 2007
+P1: 1.00, P2: 3.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Ana Luisa
+Matricula: 2008
+P1: 7.00, P2: 9.00, P3: 1.00
+
+
+Informações do aluno:
+Aluno(a): Ana Beatriz
+Matricula: 2009
+P1: 6.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Ana Carol
+Matricula: 2010
+P1: 9.00, P2: 8.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Ana Maria
+Matricula: 2011
+P1: 6.00, P2: 5.00, P3: 4.00
+
+
+Informações do aluno:
+Aluno(a): Joao
+Matricula: 2012
+P1: 3.00, P2: 2.00, P3: 1.00
+
+
+Informações do aluno:
+Aluno(a): Joao Celso
+Matricula: 2013
+P1: 1.00, P2: 7.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Joao Felipe
+Matricula: 2014
+P1: 5.00, P2: 7.00, P3: 2.00
+
+
+Informações do aluno:
+Aluno(a): Joao Lucas
+Matricula: 2015
+P1: 9.00, P2: 9.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Joao Marco
+Matricula: 2016
+P1: 8.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Joao Miguel
+Matricula: 2017
+P1: 7.00, P2: 7.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Joao Victor
+Matricula: 2018
+P1: 6.00, P2: 6.00, P3: 6.00
+
+
+Informações do aluno:
+Aluno(a): Joaquin
+Matricula: 2019
+P1: 5.00, P2: 5.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Jonas
+Matricula: 2020
+P1: 4.00, P2: 4.00, P3: 4.00
+
+
+Informações do aluno:
+Aluno(a): Jorge
+Matricula: 2021
+P1: 3.00, P2: 3.00, P3: 3.00
+
+
+Informações do aluno:
+Aluno(a): Jojo
+Matricula: 2022
+P1: 2.00, P2: 2.00, P3: 2.00
+
+
+Alunos aprovados:
+
+
+Informações do aluno:
+Aluno(a): Aimee
+Matricula: 2001
+P1: 9.00, P2: 7.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Alice
+Matricula: 2002
+P1: 4.00, P2: 6.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Ana Luisa
+Matricula: 2008
+P1: 7.00, P2: 9.00, P3: 1.00
+
+
+Informações do aluno:
+Aluno(a): Ana Beatriz
+Matricula: 2009
+P1: 6.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Ana Carol
+Matricula: 2010
+P1: 9.00, P2: 8.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Ana Maria
+Matricula: 2011
+P1: 6.00, P2: 5.00, P3: 4.00
+
+
+Informações do aluno:
+Aluno(a): Joao Celso
+Matricula: 2013
+P1: 1.00, P2: 7.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Joao Lucas
+Matricula: 2015
+P1: 9.00, P2: 9.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Joao Marco
+Matricula: 2016
+P1: 8.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Joao Miguel
+Matricula: 2017
+P1: 7.00, P2: 7.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Joao Victor
+Matricula: 2018
+P1: 6.00, P2: 6.00, P3: 6.00
+
+
+Informações do aluno:
+Aluno(a): Joaquin
+Matricula: 2019
+P1: 5.00, P2: 5.00, P3: 5.00
+
+
+
+Média total: 5.17

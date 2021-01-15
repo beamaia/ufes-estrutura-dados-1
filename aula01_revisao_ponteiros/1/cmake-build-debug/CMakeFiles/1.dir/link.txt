@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/1.dir/aula1_1.c.o  -o 1 

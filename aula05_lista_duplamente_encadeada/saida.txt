@@ -1,0 +1,42 @@
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+Digite o nome do jogo
+Digite a letra indicada por () para indicar o tipo de jogo
+(B) - Base | (E) - Pacote de Expansão | (J) - Pacote de Jogo | (C) Coleção de Objetos
+Em qual ano ele foi lançado?
+Qual é o ID do jogo?
+Digite a nota do jogo de 0 a 10
+ID: 4 - Coleção de Objetos - Sims 4: Vida Compacta - Ano: 2020 - Nota: 8.60
+ID: 3 - Pacote de Jogo - Sims 4: Vida em Família - Ano: 2017 - Nota: 8.00
+ID: 2 - Pacote de Expansão - Sims 4: Vida Sustentável - Ano: 2020 - Nota: 8.50
+ID: 1 - Jogo Base - Sims 4 - Ano: 2014 - Nota: 6.00
+ID: 6 - Jogo Base - Don't Starve Together - Ano: 2016 - Nota: 8.60
+ID: 5 - Jogo Base - Stardew Valley - Ano: 2016 - Nota: 9.00

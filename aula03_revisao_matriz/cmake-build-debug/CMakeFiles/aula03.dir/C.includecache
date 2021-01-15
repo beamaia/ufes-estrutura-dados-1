@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bea/ufes/earte-2020-1/ed1/aula03/matriz.h
+
+/home/bea/ufes/earte-2020-1/ed1/aula03/progmat.c
+stdio.h
+-
+matriz.h
+/home/bea/ufes/earte-2020-1/ed1/aula03/matriz.h
+

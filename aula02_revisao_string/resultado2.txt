@@ -1,0 +1,149 @@
+Quantos alunos tem?
+Digite o nome do aluno:
+11111 Aprovado N1
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N2
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N3
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N4
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N5
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N6
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Aprovado N6
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Reprovado N1
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Reprovado N2
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+11111 Reprovado N3
+Digite a matrícula
+Digite a nota das 3 provas:
+
+Informações do aluno:
+Aluno(a): Aprovado N1
+Matricula: 1
+P1: 5.00, P2: 5.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N2
+Matricula: 2
+P1: 6.00, P2: 6.00, P3: 6.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N3
+Matricula: 3
+P1: 7.00, P2: 7.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N4
+Matricula: 4
+P1: 8.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N5
+Matricula: 5
+P1: 9.00, P2: 9.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N6
+Matricula: 6
+P1: 10.00, P2: 10.00, P3: 10.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N6
+Matricula: 6
+P1: 10.00, P2: 10.00, P3: 10.00
+
+
+Informações do aluno:
+Aluno(a): Reprovado N1
+Matricula: 7
+P1: 1.00, P2: 1.00, P3: 1.00
+
+
+Informações do aluno:
+Aluno(a): Reprovado N2
+Matricula: 8
+P1: 2.00, P2: 2.00, P3: 2.00
+
+
+Informações do aluno:
+Aluno(a): Reprovado N3
+Matricula: 9
+P1: 3.00, P2: 3.00, P3: 3.00
+
+
+Alunos aprovados:
+
+
+Informações do aluno:
+Aluno(a): Aprovado N1
+Matricula: 1
+P1: 5.00, P2: 5.00, P3: 5.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N2
+Matricula: 2
+P1: 6.00, P2: 6.00, P3: 6.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N3
+Matricula: 3
+P1: 7.00, P2: 7.00, P3: 7.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N4
+Matricula: 4
+P1: 8.00, P2: 8.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N5
+Matricula: 5
+P1: 9.00, P2: 9.00, P3: 9.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N6
+Matricula: 6
+P1: 10.00, P2: 10.00, P3: 10.00
+
+
+Informações do aluno:
+Aluno(a): Aprovado N6
+Matricula: 6
+P1: 10.00, P2: 10.00, P3: 10.00
+
+
+
+Média total: 6.10

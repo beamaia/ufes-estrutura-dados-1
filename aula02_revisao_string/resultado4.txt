@@ -1,0 +1,76 @@
+Quantos alunos tem?
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+Digite o nome do aluno:
+Digite a matrícula
+Digite a nota das 3 provas:
+
+Informações do aluno:
+Aluno(a): Archie
+Matricula: 5
+P1: 5.00, P2: 5.00, P3: 4.00
+
+
+Informações do aluno:
+Aluno(a): Betty
+Matricula: 2
+P1: 8.00, P2: 9.00, P3: 7.30
+
+
+Informações do aluno:
+Aluno(a): Veronica
+Matricula: 1
+P1: 8.00, P2: 7.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Jughead
+Matricula: 3
+P1: 4.00, P2: 6.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Cheryl
+Matricula: 4
+P1: 8.00, P2: 7.00, P3: 8.00
+
+
+Alunos aprovados:
+
+
+Informações do aluno:
+Aluno(a): Betty
+Matricula: 2
+P1: 8.00, P2: 9.00, P3: 7.30
+
+
+Informações do aluno:
+Aluno(a): Veronica
+Matricula: 1
+P1: 8.00, P2: 7.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Jughead
+Matricula: 3
+P1: 4.00, P2: 6.00, P3: 8.00
+
+
+Informações do aluno:
+Aluno(a): Cheryl
+Matricula: 4
+P1: 8.00, P2: 7.00, P3: 8.00
+
+
+
+Média total: 6.82
